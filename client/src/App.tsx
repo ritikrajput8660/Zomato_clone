@@ -1,13 +1,14 @@
-import './App.css'
+
 
 function App() {
   return (
     <>
-      <div>
-        <h1>heloo</h1>
-      </div>
+      <h1>Heloo</h1>
+      <h1>Heloo</h1>
+      <h1>Heloo</h1>
+      <h1>Heloo</h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
